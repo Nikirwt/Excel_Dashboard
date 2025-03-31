@@ -18,9 +18,9 @@ Findings:
 * Nov, Dec has the highest sales whereas Feb, Jan has the lowest.
 
 Takeaways -
--> Make sure products in high demand doesn't go out of stock particularly in their high selling regions.
--> The general trend in changing demand of the customers can be understood by their changing sales over the years.
--> Invest more in technology products to gain more profit.
--> Positive indication in the growth of customers over the years with slight decline in 2015, which needs to be evaluated.
--> Correlation of monthly fluctuations in the sale and factors such as festive season sales, offers, discounts, etc.
--> The top most profit making and loyal customers can be rewarded with some coupons and discounts.
+* Make sure products in high demand doesn't go out of stock particularly in their high selling regions.
+* The general trend in changing demand of the customers can be understood by their changing sales over the years.
+* Invest more in technology products to gain more profit.
+* Positive indication in the growth of customers over the years with slight decline in 2015, which needs to be evaluated.
+* Correlation of monthly fluctuations in the sale and factors such as festive season sales, offers, discounts, etc.
+* The top most profit making and loyal customers can be rewarded with some coupons and discounts.
